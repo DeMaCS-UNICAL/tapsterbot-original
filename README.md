@@ -23,17 +23,6 @@
 - https://github.com/jackskalitzky/tapsterbot
 - https://speakerdeck.com/pylapp/why-not-tapster
 
-## Documentation
-- [Getting started](https://github.com/pylapp/tapsterbot/wiki/01-%5C--Getting-started-with-Tapster-2)
-- [Calibration of the robot](https://github.com/pylapp/tapsterbot/wiki/02-%5C--The-calibration-workflow)
-- [Robot HTTP API](https://github.com/pylapp/tapsterbot/wiki/04-%5C--The-Tapster-2-API)
-- [Python client](https://github.com/pylapp/tapsterbot/wiki/06-%5C--Drive-the-robot:-Python-API)
-- [Robot Framework keywords](https://github.com/pylapp/tapsterbot/wiki/11--%5C-Automation-of-tests)
-- [Robot Framework wrapper](https://github.com/pylapp/tapsterbot/wiki/11--%5C-Automation-of-tests)
-- [Technical details](https://github.com/pylapp/tapsterbot/wiki/12--%5C-More-technical-details)
-- [FAQ](https://github.com/pylapp/tapsterbot/wiki/13--%5C-FAQ)
-- [Wiki](https://github.com/pylapp/tapsterbot/wiki)
-
 ## Versions
 1. astro - (tag: vAstro) - The base version of the project, with calibrations workflows and assets.
 2. bb8 - (tag: vBb8) - Verson with documentation and CURL commands.
