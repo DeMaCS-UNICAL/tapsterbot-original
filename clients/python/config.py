@@ -42,7 +42,7 @@ CLIENT_VERSION = "v3.0.0"
 DEFAULT_ROBOT_IP_ADDRESS = "127.0.0.1"
 
 # Default port to use to as to reach the robot
-DEFAULT_ROBOT_PORT = "4242"
+DEFAULT_ROBOT_PORT = "80"
 
 # Default protocol to use for the robot
 DEFAULT_ROBOT_PROTOCOL = "http"
