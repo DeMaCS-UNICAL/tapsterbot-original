@@ -1,5 +1,14 @@
 # Tapster - Mobile Automation Robot
 
+# GB Ianni's notes
+
+This is a fork of the original pylapp's tapsterbot project used as a submodule in other robotic projects.
+
+Folders of interest:
+ - hardware: contains 3D models for printing the robot. We printed a tapster-2, currently.
+ - clients: useful clients to the robot, especially the Python one.
+ - other folders like __software__, and __calibration__, are not used currently (we use the tappy project for that, since it has a better server and a better calibration method)
+
 ![A Taspter2 bot](poster.png)
 
 ## Why using such bot?
