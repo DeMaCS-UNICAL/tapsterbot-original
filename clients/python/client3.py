@@ -22,7 +22,7 @@ SOFTWARE.
 # ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一
 
 """
-File.......: client.py
+File.......: client3.py
 Brief......: The Python client to use soa s to drive the Tapster2 bot
 Author.....: Pierre-Yves Lapersonne
 Version....: 2.0.1
@@ -47,9 +47,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.robotserverurl:
-        config.ROBOT_URL = args.robotserverurl
+        config3.ROBOT_URL = args.robotserverurl
     else:
-        config.ROBOT_URL = DEFAULT_ROBOT_URL
+        config3.ROBOT_URL = DEFAULT_ROBOT_URL
 
 # In this case we are in light mode
 
